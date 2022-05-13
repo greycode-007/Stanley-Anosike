@@ -1,5 +1,5 @@
 
-<img align="center" src="  " width="850" />
+<img align="center" src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/Banner.gif.gif" width="850" />
 
 
 ### About Me
@@ -19,9 +19,9 @@ I am a front-end engineer with a background in--------------------------
 ### Projects
 <table>
  <tbody>
-   <tr>
+   <tr> 
    <td>
-       <a href="#"><img src="https://greycode-007.github.io/Digitalwebsite/#" width="350" /><br>
+       <a href="#"><img src="https://greycode-007.github.io/Digitalwebsite/#" width="350"/><br>
        <a href="https://github.com/greycode-007/Digitalwebsite">                                                                             <img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
        <a href=" https://greycode-007.github.io/Digitalwebsite/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
