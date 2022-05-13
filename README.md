@@ -20,11 +20,11 @@
   </a>
 </div>
 
-I am a front-end  engineer that is passionate about creating beautiful web applications, with Key focus on elegant design, functionality, accessibility, and responsiveness. Skilled and knowledgeable in working with tools, such as: JavaScript, ReactJs, Jquery, Html, Style (Css), Media Queries,  ExpressJs, NodeJs, AOS Library, Git and GitHub Actions.
+<p> I am a front-end  engineer that is passionate about creating beautiful web applications, with Key focus on elegant design, functionality, accessibility, and responsiveness. Skilled and knowledgeable in working with tools, such as: JavaScript, ReactJs, Jquery, Html, Style (Css), Media Queries,  ExpressJs, NodeJs, AOS Library, Git and GitHub Actions.
 
  With a background in communications, e-commerce, market research and  passionate about problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
 
-I am open and excited to working on new  Projects.  
+I am open and excited to working on new  Projects.   </p>
 
 ---
 
