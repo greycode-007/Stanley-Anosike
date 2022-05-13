@@ -9,13 +9,13 @@
   </div>
 
 <div id="badges"  align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/stanley-anosike-a5b44a222">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:stanleymm2@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/stanleymm2">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
