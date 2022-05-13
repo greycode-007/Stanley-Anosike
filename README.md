@@ -21,12 +21,12 @@ I am a front-end engineer with a background in--------------------------
  <tbody>
    <tr> 
    <td>
-       <a href="#"><img src="https://greycode-007.github.io/Digitalwebsite/#" width="350"/><br>
+       <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/nft.png" width="350"/><br>
        <a href="https://github.com/greycode-007/Digitalwebsite">                                                                             <img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
        <a href=" https://greycode-007.github.io/Digitalwebsite/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
     <td>
-        <a href="#"><img src="https://greycode-007.github.io/Easybank/" width = "350"/><br>
+        <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/easybank.png" width = "350"/><br>
         <a href="https://github.com/greycode-007/Easybank"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="https://greycode-007.github.io/Easybank/"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
      </td>
@@ -34,13 +34,13 @@ I am a front-end engineer with a background in--------------------------
    </tr>
      <tr>
     <td>
-        <a href="#"><img src="https://greycode-007.github.io/fylo-dark/#" width = "350"/><br>
+        <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/dark-fylo.png" width = "350"/><br>
         <a href="https://github.com/greycode-007/fylo-dark">                                                                             <img
         align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="https://greycode-007.github.io/fylo-dark/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
       <td>
-        <a href="#"><img src="https://greycode-007.github.io/MovieAPP/#" width = "350"/><br>
+        <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/MovieApp.png" width = "350"/><br>
         <a href="https://github.com/greycode-007/MovieAPP">                                                                             <img 
         align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
         <a href="https://greycode-007.github.io/MovieAPP/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
