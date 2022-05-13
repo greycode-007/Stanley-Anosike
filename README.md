@@ -3,22 +3,6 @@
 
 
 ### :man_technologist:  About Me
-  
-  <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
-
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/stanley-anosike-a5b44a222">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:stanleymm2@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
-  <a href="https://twitter.com/stanleymm2">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
 <p> I am a front-end  engineer that is passionate about creating beautiful web applications, with Key focus on elegant design, functionality, accessibility, and responsiveness. Skilled and knowledgeable in working with tools, such as: JavaScript, ReactJs, Jquery, Html, Style (Css), Media Queries,  ExpressJs, NodeJs, AOS Library, Git and GitHub Actions.
 
