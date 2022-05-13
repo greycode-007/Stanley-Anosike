@@ -4,7 +4,11 @@
 
 ### About Me
 
-I am a front-end engineer with a background in--------------------------
+I am a front-end  engineer that is passionate about creating beautiful web applications, with Key focus on elegant design, functionality, accessibility, and responsiveness. Skilled and knowledgeable in working with tools, such as: JavaScript, ReactJs, Jquery, Html, Style (Css), Media Queries,  ExpressJs, NodeJs, AOS Library, Git and GitHub Actions.
+
+ With a background in communications, e-commerce, market research and  passionate about problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
+
+I am open and excited to working on new  Projects.  
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -16,13 +20,13 @@ I am a front-end engineer with a background in--------------------------
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
-### Projects
+### Recent Projects
 <table>
  <tbody>
    <tr> 
    <td>
        <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/nft.png" width="350"/><br>
-       <a href="https://github.com/greycode-007/Digitalwebsite">                                                                             <img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+       <a href="https://github.com/greycode-007/Digitalwebsite"> <img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
        <a href=" https://greycode-007.github.io/Digitalwebsite/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
     <td>
@@ -52,7 +56,7 @@ I am a front-end engineer with a background in--------------------------
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@stanleymm2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stanleymm2)](https://twitter.com/stanleymm2) 
-[![Linkedin Badge](https://img.shields.io/badge/-aprilyuen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-anosike-a5b44a222)](https://www.linkedin.com/in/stanley-anosike-a5b44a222)
+[![Linkedin Badge](https://img.shields.io/badge/-stanleyAnosike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanley-anosike-a5b44a222)](https://www.linkedin.com/in/stanley-anosike-a5b44a222)
 [![Gmail Badge](https://img.shields.io/badge/-stanleymm2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleymm2@gmail.com)](mailto:stanleymm2@gmail.com)
 [<img src="https://img.shields.io/badge/Personal%20Site-StanleyAnosike-red">](https://greycode-007.github.io/fylo-dark/#)
 
