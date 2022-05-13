@@ -2,13 +2,31 @@
 <img align="center" src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/Banner.gif.gif" width="850" />
 
 
-### About Me
+### :man_technologist:  About Me
+  
+  <div id="header" align="center">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+
+<div id="badges"  align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 I am a front-end  engineer that is passionate about creating beautiful web applications, with Key focus on elegant design, functionality, accessibility, and responsiveness. Skilled and knowledgeable in working with tools, such as: JavaScript, ReactJs, Jquery, Html, Style (Css), Media Queries,  ExpressJs, NodeJs, AOS Library, Git and GitHub Actions.
 
  With a background in communications, e-commerce, market research and  passionate about problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
 
 I am open and excited to working on new  Projects.  
+
+---
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,6 +37,8 @@ I am open and excited to working on new  Projects.
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+
+---
 
 ### Recent Projects
 <table>
@@ -53,6 +73,7 @@ I am open and excited to working on new  Projects.
    </tbody>
 </table>
 
+---
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@stanleymm2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stanleymm2)](https://twitter.com/stanleymm2) 
