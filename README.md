@@ -27,7 +27,7 @@ I am open and excited to working on new  Projects.
    <td>
        <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/nft.png" width="350"/><br>
        <a href="https://github.com/greycode-007/Digitalwebsite"> <img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
-       <a href=" https://greycode-007.github.io/Digitalwebsite/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+       <a href="https://greycode-007.github.io/Digitalwebsite/#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
     <td>
         <a href="#"><img src="https://github.com/greycode-007/Stanley-Anosike/blob/main/media/easybank.png" width = "350"/><br>
